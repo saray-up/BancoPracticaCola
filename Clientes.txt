@@ -1,0 +1,16 @@
+Identificación: 1001821009
+Nombre: HALDIN GUSTAVO
+TipoTramite: 7
+Edad: 23
+CondicionEspecial: 1
+NumeroTurno: 2
+Estado: 1
+------------------------------------------------------
+Identificación: 1038804138
+Nombre: SARAY AGUA
+TipoTramite: 1
+Edad: 19
+CondicionEspecial: 2
+NumeroTurno: 1
+Estado: 1
+------------------------------------------------------
